@@ -1,3 +1,3 @@
-# fastflow_app
+# chemtrack_app
 
 A new Flutter project.
